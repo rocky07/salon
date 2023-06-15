@@ -1,4 +1,5 @@
 ----------------------------------------------------------------
+<<<<<<< HEAD
 Thu Jun 15 12:07:14 CDT 2023:
 Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0188-c006-860d-0000013c6bb8 
 on database directory memory:/home/ramesanrakesh/workspace/salon/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
@@ -6,6 +7,15 @@ Loaded from file:/home/ramesanrakesh/.m2/repository/org/apache/derby/derby/10.14
 java.vendor=Debian
 java.runtime.version=11.0.18+10-post-Debian-1deb11u1
 user.dir=/home/ramesanrakesh/workspace/salon
+=======
+Thu Jun 15 22:24:14 UTC 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0188-c128-c444-0000029e0d00 
+on database directory memory:/workspaces/salon/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/home/codespace/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Microsoft
+java.runtime.version=11.0.14.1+1-LTS
+user.dir=/workspaces/salon
+>>>>>>> 819ce7828cfaf597ba8ca0fbc784fd1352d10889
 os.name=Linux
 os.arch=aarch64
 os.version=5.15.103-17409-g07029265d738

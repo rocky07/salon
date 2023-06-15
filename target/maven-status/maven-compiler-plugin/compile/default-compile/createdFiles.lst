@@ -1,6 +1,10 @@
 com/ff/salon/SalonApplication.class
 com/ff/salon/repo/UserRepo.class
+<<<<<<< HEAD
 ViewController.class
+=======
+com/ff/salon/controller/ViewController.class
+>>>>>>> 819ce7828cfaf597ba8ca0fbc784fd1352d10889
 com/ff/salon/controller/DataController.class
 com/ff/salon/repo/UserEntity.class
 com/ff/salon/SecurityConfig.class
