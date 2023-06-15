@@ -1,6 +1,6 @@
+com/ff/salon/SalonApplication.class
+com/ff/salon/repo/UserRepo.class
+ViewController.class
 com/ff/salon/controller/DataController.class
 com/ff/salon/repo/UserEntity.class
 com/ff/salon/SecurityConfig.class
-com/ff/salon/SalonApplication.class
-ViewController.class
-com/ff/salon/repo/UserRepo.class
