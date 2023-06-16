@@ -9,4 +9,9 @@ class ViewController{
         return "index.html";
     }
 
+    @GetMapping("/admin")
+    public String adminHome(){
+        return "/admin/index.html";
+    }
+
 }
